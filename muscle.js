@@ -307,7 +307,7 @@ function nuovaPallina() {
 function mouseClicked() {
   dE = dist(mouseX, mouseY, xE, yE);
     if (dE < 40) {
-  window.location.href = "../index.html";
+  window.location.href = "index.html";
     }
 }
 
