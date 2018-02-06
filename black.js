@@ -55,6 +55,6 @@ text('FEDERICA GUAZZONI, CHIARA SORRENTINO, YAQIAN WU',-32+xx, 383+yy);
 function mouseClicked() {
   dE = dist(mouseX, mouseY, xE, yE);
     if (dE < 40) {
-  window.location.href = "../index.html";
+  window.location.href = "index.html";
     }
 }
