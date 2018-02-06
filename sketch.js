@@ -48,15 +48,15 @@ function draw() {
 //  else {s=width;}
 
 
-textSize(50);
-textAlign(CENTER);
-textFont('Amatic SC');
-fill("#f8e4d0");
-text('WHAT EFFECTS DOES CAFFEINE HAVE ON YOU?',0+xx,-200+yy);
+//textSize(50);
+//textAlign(CENTER);
+//textFont('Amatic SC');
+//fill("#f8e4d0");
+//text('WHAT EFFECTS DOES CAFFEINE HAVE ON YOU?',0+xx,-200+yy);
  
     
 //MONSTER
-image(monster,20+xx,115+yy,320,330);
+image(monster,20+xx,100+yy,320,330);
  
 //HEART
 push();
