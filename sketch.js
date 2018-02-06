@@ -56,7 +56,7 @@ text('WHAT EFFECTS DOES CAFFEINE HAVE ON YOU?',0+xx,-200+yy);
  
     
 //MONSTER
-image(monster,20+xx,120+yy,320,340);
+image(monster,20+xx,122+yy,320,340);
  
 //HEART
 push();
