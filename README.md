@@ -1,11 +1,11 @@
 # COFFEE-ADDICTS
 # What effects does caffeine have on you?
 This project allows the users to discover in a very fascinating way the main effects provoked by caffeine on our bodies.Through three different games it will be possible to visualize and experience at first hand how our heart, muscles, and sight react to this substance.
-# EYE
+## EYE
 Pressing the arrow of keyboard the user will test his own eyes, his own coordination and concentration. It will be required to connect the correct arrow with the direction taken by enlightened “E” in the grid. The sight of the user will be so stressed that he will fill a sense of discomfort.
-# MUSCLES
+## MUSCLES
 Moving the mouse the user will try to pull the brown sugar cube in the cup. Through this game the user will experience the difficulty of doing a movement trembling. Spontaneous irritation will be generated because, despite the straight movement made by the user with the mouse, the cube will follow different paths.
-# HEART
+## HEART
 Clapping your hands it will be possible to follow the rhythm of the heart beating, that will seem more and more tachycardic. It will be very difficult to keep an high and steady volume trough the clap of your hands at an increasing speed. 
 # THE AMOUNT OF CAFFEINE
 You can increase or decrease the amount of assumed caffeine in each page (pressing the “+” or “-” bottom) consequently you can experience the different effects in relation of the amount of caffein chosed.
