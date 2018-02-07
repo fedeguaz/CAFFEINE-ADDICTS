@@ -18,7 +18,7 @@ var xC = 15 + xx;
 var yC = 120 + yy;
 
 //var occhi
-var xO = -10 + xx;
+var xO = -4 + xx;
 var yO = 13 + yy;
 
 
@@ -70,7 +70,7 @@ pop();
 
 //EYE
 push();
- translate(-10+xx,13+yy)
+ translate(-4+xx,13+yy)
  rotate(1.2*mouseX/2)
 image(eye,0,0,70,50);
 pop();
